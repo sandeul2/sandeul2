@@ -12,10 +12,6 @@
 
 <br>
 
-<p align="center">
-<br>
-<br> <Strong>📧Email📧</Strong><br>popiiy53@gmail.com<br>
-</p>
 
 <br>
 
