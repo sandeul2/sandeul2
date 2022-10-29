@@ -24,7 +24,7 @@
   
 
 <p align="center">
-    💡used as the main
+    💡활용 언어
 </p>
 
 <p align="center" display="inline-block">
