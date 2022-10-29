@@ -21,13 +21,10 @@
 
 <p align="center">
     <Strong>🔍기술 스택🔍</Strong><br>
-    💡used as the main
-</p>
-
-
+  
 
 <p align="center">
-    💡used at least once
+    💡used as the main
 </p>
 
 <p align="center" display="inline-block">
