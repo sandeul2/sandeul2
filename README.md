@@ -5,9 +5,9 @@
 <p align="center">
     <Strong>🚀포트폴리오🚀</Strong><br><br>
     <a href="https://popiiy53blog.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-535D6C?style=flat-square&logo=Tistory&logoColor=white"/></a>
-    <a href="https://popiiy53.github.io/" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+    <a href="https://popiiy53.github.io/" target="_blank"><img src="https://img.shields.io/badge/포트폴리오-0288D1?style=flat-square&logo=Notion&logoColor=white"/></a>
     
-<Strong>📧Email📧</Strong><br>popiiy53@gmail.com<br>
+<br> <Strong>📧Email📧</Strong><br>popiiy53@gmail.com<br>
 
 </p>
 
