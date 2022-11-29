@@ -35,4 +35,4 @@
 
 <div align=center>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=popiiy53&layout=compact&theme=white)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?popiiy53=anuraghazra&show_icons=true&theme=card)
