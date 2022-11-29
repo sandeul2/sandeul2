@@ -35,4 +35,4 @@
 
 <div align=center>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?popiiy53=anuraghazra&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjeongmin98&show_icons=true&theme=radical)
