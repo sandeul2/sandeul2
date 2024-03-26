@@ -4,8 +4,8 @@
 
 <p align="center">
     <Strong>🚀포트폴리오🚀</Strong><br><br>
-    <a href="mailto:sandeul98s@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=sandeul98s@gmail.com"/></a>
     <a href="https://popiiy53blog.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/></a>
+    <a href="mailto:sandeul98s@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=sandeul98s@gmail.com"/></a>
 
 </p>
     
